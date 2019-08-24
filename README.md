@@ -1,1 +1,2 @@
-YODO-TECH
+# YY-TECH
+This is the story of the legend of Yodogawa...
