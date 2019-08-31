@@ -2,6 +2,7 @@ package pr_3;
 
 public class Pr3_6 {
 	public static void main(String[]argus) {
+		// macへし折るよ
 	int i = 2;
 	if((i % 2) == 0 || (i % 2) >= 0)
 	System.out.println("正の偶数");

@@ -6,6 +6,7 @@ public class Pr3_3 {
 		int y = 1;
 		if ( x > y )
 			System.out.println("xはyより大きい。");
+		// あってるけどelseでよくね？
 		else if ( x < y )
 			System.out.println("xはyより小さい。");
 	}
