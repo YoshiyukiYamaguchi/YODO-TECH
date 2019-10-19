@@ -5,7 +5,7 @@
 【windows】
 ctrl + Shift + f
 【mac】
-command + Shift + f
+command + Shift + f	
 
 2,コミット文の先頭には以下のコミットレベルを記述すること
 コミットレベル↓
