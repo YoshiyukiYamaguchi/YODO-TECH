@@ -2,11 +2,12 @@ package pr_3.pr3_1;
 
 import java.util.Scanner;
 
-public class Pr_3_7_1 {
+public class Pr_3_7_2 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		String line = sc.next();
-		System.out.println(line);
+		int line = sc.nextInt();
+		System.out.println(line * 100);
+
 	}
 
 }
